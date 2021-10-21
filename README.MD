@@ -17,8 +17,8 @@ penetration testing techniques.
 
 **WARNING 1:** *While running this program your machine will be extremely
 vulnerable to attack. You should disconnect from the Internet while using
-this program.*  WebGoat's default configuration binds to localhost to minimize
-the exposure.
+this program.*  WebGoat's defaqweult configuration binds to localhost to minimize
+the exposure.qeqweqweqweqweqweqwwqeqw
 
 **WARNING 2:** *This program is for educational purposes only. If you attempt
 these techniques without authorization, you are very likely to get caught. If
