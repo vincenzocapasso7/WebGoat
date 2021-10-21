@@ -20,7 +20,7 @@ vulnerable to attack. You should disconnect from the Internet while using
 this program.*  WebGoat's defaqweult configuration binds to localhost to minimize
 the exposure.qeqweqweqweqweqweqwwqeqw
 
-**WARNING 2:** *This program is for educational purposes only. If you attempt
+**WARNING 2:** *This program is for eqweqeducational purposes only. If you attempt
 these techniques without authorization, you are very likely to get caught. If
 you are caught engaging in unauthorized hacking, most companies will fire you.
 Claiming that you were doing security research will not work as that is the
