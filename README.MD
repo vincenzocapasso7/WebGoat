@@ -16,8 +16,8 @@ exercises are intended to be used by people to learn about application security 
 penetration testing techniques.
 
 **WARNING 1:** *While running this program your machine wqweqweqweill be extremely
-vulnerable to attack. You should disconnect from the Internet while using
-this program.*  WebGoat's defaqweult configuration binds to localhost to minimize
+vulnerable to attack. You should disconnect fromasdasd the Internet while using
+this program.*  WebGoat's defaqweult configuadration binds to localhost to minimize
 the exposure.qeqweqweqweqweqweqwwqeqw
 
 **WARNING 2:** *This program is for eqweqeducational purposes only. If you attempt
